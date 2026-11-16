@@ -93,8 +93,11 @@ I'm an **AI/ML Engineer at Bank Alfalah**, building machine learning models and 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=irtazaazeem123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtazaazeem123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irtazaazeem123&theme=tokyonight" alt="GitHub stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irtazaazeem123&theme=tokyonight" alt="Repos per language"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=irtazaazeem123&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
